@@ -1,0 +1,14 @@
+[
+  {
+    "ID": 1,
+    "FromCurrency": "USD",
+    "ToCurrency": "INR",
+    "ConversionRate": 82.34
+  },
+  {
+    "ID": 2,
+    "FromCurrency": "GBP",
+    "ToCurrency": "USD",
+    "ConversionRate": 1.28
+  }
+]
